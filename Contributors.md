@@ -22,6 +22,7 @@ Pashyant Srivastava
 -[Rajeev Dandu](https://github.com/Dandu-Rajeev)
 Akshit Agarwal
 -[Aman Verma](https://github.com/amanopia)
+-[Riiju Jagetiya](https://github.com/riijurdj)
 -[Faizan Saeed](https://github.com/FaizanSaeedLogiciel)
 -[Tom Magnitis](https://github.com/magnitis)
 -[Raja P](https://github.com/raja-softwareengineer)
